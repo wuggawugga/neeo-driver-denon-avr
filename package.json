@@ -2,7 +2,7 @@
   "name": "neeo-driver-denon-avr",
   "version": "1.0.0",
   "description": "NEEO driver for DENON AV receivers",
-  "main": "index.js",
+  "main": "devices/index.js",
   "scripts": {
     "start": "neeo-sdk start"
   },
