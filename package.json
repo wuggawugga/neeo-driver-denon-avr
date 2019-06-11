@@ -4,7 +4,8 @@
   "description": "NEEO driver for DENON AV receivers",
   "main": "devices/index.js",
   "scripts": {
-    "start": "neeo-sdk start"
+    "start": "neeo-sdk start",
+    "showOptions": "node scripts/showOptions.js"
   },
   "author": "",
   "license": "MIT",
